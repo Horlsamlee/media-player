@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyMusicApp</string>
+    <string name="no_songs_found">NO SONGS FOUND</string>
+    <string name="songs">Songs</string>
+    <string name="song_title">Song Title</string>
+    <string name="_0_00">0.00</string>
+</resources>
